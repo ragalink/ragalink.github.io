@@ -15,4 +15,6 @@ body{
     margin: 0px;
     margin-left: 0px;
     background:url("../Hambúrger.jpg");
+    transform: scale(2.7);
+    transform-origin: 0 0;
 }
