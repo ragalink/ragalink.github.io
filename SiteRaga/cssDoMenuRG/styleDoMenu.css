@@ -14,7 +14,7 @@ body{
     height: 300px;
     position: relative;
     margin: -10px auto;
-    margin-left: 115px;
+    margin-left: 100px;
     background:url("../FTLgc1.png");
 }
 
@@ -23,7 +23,7 @@ body{
     height: 350px;
     position: absolute;
     margin: 45px auto;
-    margin-left: 115px;
+    margin-left: 100px;
     text-align: center;
     border-radius: 5px;
     background:url("../FTHamburger.png");
@@ -49,7 +49,7 @@ body{
     height: 50px;
     position: absolute;
     margin: 410px auto;
-    margin-left: 120px;
+    margin-left: 100px;
     text-align: center;
     border-radius: 5px;
     background:black;
@@ -60,7 +60,7 @@ body{
     height: 350px;
     position: absolute;
     margin: 455px auto;
-    margin-left: 115px;
+    margin-left: 100px;
     text-align: center;
     border-radius: 5px;
     background:url("../FTPastel.png");
@@ -86,7 +86,7 @@ body{
     height: 350px;
     position: absolute;
     margin: 865px auto;
-    margin-left: 115px;
+    margin-left: 100px;
     text-align: center;
     border-radius: 5px;
     background:url("../FTBebida.png");
