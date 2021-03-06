@@ -13,7 +13,7 @@ body{
     width: 600px;
     height: 300px;
     position: relative;
-    margin: -10px auto;
+    margin: -25px auto;
     margin-left: 100px;
     background:url("../FTLgc1.png");
 }
@@ -38,7 +38,7 @@ body{
     height: 50px;
     position: absolute;
     margin: 0px auto;
-    margin-left: 115px;
+    margin-left: 100px;
     text-align: center;
     border-radius: 5px;
     background:black;
@@ -75,7 +75,7 @@ body{
     height: 50px;
     position: absolute;
     margin: 830px auto;
-    margin-left: 115px;
+    margin-left: 100px;
     text-align: center;
     border-radius: 5px;
     background:black;
