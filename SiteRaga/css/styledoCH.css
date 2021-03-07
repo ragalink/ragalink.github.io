@@ -20,5 +20,5 @@ body{
     margin: 0px;
     width: 1414px;
     height: 4000px;
-    background-image: url(..//Pastel.png);
+    background-image: url(..//Pastel.png) no-repeat bottom center scroll;
 }
