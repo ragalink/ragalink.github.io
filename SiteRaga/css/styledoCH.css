@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-image: url(..//Fundoteste.png);
+}
+
+#Tela{
+    background-image: url(..//Pastel.jpg);
+    width: 1414px;
+    height: 2000px;
+}
