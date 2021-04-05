@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-image: url(..//Fundoteste.png);
+}
+
+#Tela{
+    background-image: url(..//Bebida.png);
+    text-align: center;
+    height: 1700px;
+    width: 1400px;
+    margin: 0;
+}
